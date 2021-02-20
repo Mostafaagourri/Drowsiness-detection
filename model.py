@@ -22,6 +22,8 @@ VS = len(valid_batch.classes)//BS
 print(SPE,VS)
 
 
+
+
 # img,labels= next(train_batch)
 # print(img.shape)
 
